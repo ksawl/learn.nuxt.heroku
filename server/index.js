@@ -10,6 +10,9 @@ config.dev = process.env.NODE_ENV !== "production";
 app.get("/rest", (req, res) => {
   res.end("BASE REST API");
 });
+app.get("/rest/lang", (req, res) => {
+  res.end("GET DEFAULT LANG");
+});
 
 async function start() {
   // Init Nuxt.js
