@@ -3,10 +3,10 @@
     <div>
       <logo />
       <h1 class="title">
-        first
+        Nuxt-first
       </h1>
       <h2 class="subtitle">
-        My great Nuxt.js project
+        Learn Nuxt-first project
       </h2>
       <div class="links">
         <a

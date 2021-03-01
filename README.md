@@ -1,6 +1,8 @@
-# first
+# Learn Nuxt.heroku project
+This app working at Heroku
+[DEMO](https://learn-nuxt-heroku-01.herokuapp.com/)
 
-> My great Nuxt.js project
+> Empty Nuxt.js project
 
 ## Build Setup
 
