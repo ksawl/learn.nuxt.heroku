@@ -3,10 +3,10 @@
     <div>
       <logo />
       <h1 class="title">
-        Nuxt-first
+        Nuxt Heroku
       </h1>
       <h2 class="subtitle">
-        Learn Nuxt-first project
+        Learn Nuxt.heroku project
       </h2>
       <div class="links">
         <a
